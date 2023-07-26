@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Sokhnandour.github.io/tp-2-crud1.git",
+  "homepage": "https://Sokhnandour.github.io/tp-2-crud.git",
   "name": "tp-2-crud",
   "version": "0.1.0",
   "private": true,
@@ -21,8 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages  -d build"
   },
   "eslintConfig": {
     "extends": [

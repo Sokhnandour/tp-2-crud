@@ -393,7 +393,7 @@ font-size: 15px;
     width: 350px;
     height: 350px;
     align-items: center;
-    margin-left: 3px;
+    margin-left: 20px;
   }
   .cardes{
     margin-left: 4px;
@@ -447,7 +447,7 @@ font-size: 15px;
     .img8{
       width: 300px;
       height: 380px;
-      margin-left: 20PX;
+      margin-left: 40PX;
     }
 }
 

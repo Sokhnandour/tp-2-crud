@@ -2,8 +2,12 @@
     justify-content: center;
    flex-direction: column;
    display: flex;
-   background-image: url(/src/components/images/Background\ \(1\).png);
+  
    
+  }
+  .bag{
+    background-image: url(/src/components/images/Background\ \(1\).png);
+    align-items: center;
   }
   
   .logo {
@@ -393,7 +397,7 @@ font-size: 15px;
     width: 350px;
     height: 350px;
     align-items: center;
-    margin-left: 20px;
+    margin-left: 25px;
   }
   .cardes{
     margin-left: 4px;

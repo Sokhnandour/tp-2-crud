@@ -24,7 +24,9 @@ const Home = () => {
 
     return (
         <div className='container'>
+             <div className='bag'>
         <div className="row">
+           
             <div className='col-md-6'>
           <div className="logo">Ozone</div>
           </div>
@@ -282,6 +284,7 @@ const Home = () => {
          </h1>
          </div>
          </div>
+            </div>
             </div>
             
        

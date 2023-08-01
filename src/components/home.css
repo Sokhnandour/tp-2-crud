@@ -453,6 +453,21 @@ font-size: 15px;
       height: 380px;
       margin-left: 40PX;
     }
+    .number {
+      margin-left: 9% !important;
+      margin-top: -50px; 
+    }
+    .number i{
+      font-size: 30px;
+    }
+    .logo{
+      margin-right: 58px;
+    }
+    .btn{
+      
+      margin-left:120px;
+      
+    }
 }
 
   

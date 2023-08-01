@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tp-2-crud/static/css/main.ae2f92cd.css",
-    "main.js": "/tp-2-crud/static/js/main.a519937b.js",
+    "main.css": "/tp-2-crud/static/css/main.8c3deadc.css",
+    "main.js": "/tp-2-crud/static/js/main.48b2b860.js",
     "static/js/787.ee0dc8f0.chunk.js": "/tp-2-crud/static/js/787.ee0dc8f0.chunk.js",
     "static/media/remixicon.svg?t=1687271883607": "/tp-2-crud/static/media/remixicon.636515c9a8963df4380d.svg",
     "static/media/remixicon.eot?t=1687271883607": "/tp-2-crud/static/media/remixicon.83e9a22ce7f199999169.eot",
@@ -15,12 +15,12 @@
     "static/media/remixicon.woff2?t=1687271883607": "/tp-2-crud/static/media/remixicon.85992a032c7668836563.woff2",
     "static/media/Pattern-fill-png": "/tp-2-crud/static/media/Pattern-fill-e37c23a0f5211e59dd2a24560c4838a3.f37935c57756097dc4af.png",
     "index.html": "/tp-2-crud/index.html",
-    "main.ae2f92cd.css.map": "/tp-2-crud/static/css/main.ae2f92cd.css.map",
-    "main.a519937b.js.map": "/tp-2-crud/static/js/main.a519937b.js.map",
+    "main.8c3deadc.css.map": "/tp-2-crud/static/css/main.8c3deadc.css.map",
+    "main.48b2b860.js.map": "/tp-2-crud/static/js/main.48b2b860.js.map",
     "787.ee0dc8f0.chunk.js.map": "/tp-2-crud/static/js/787.ee0dc8f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae2f92cd.css",
-    "static/js/main.a519937b.js"
+    "static/css/main.8c3deadc.css",
+    "static/js/main.48b2b860.js"
   ]
 }

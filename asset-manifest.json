@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tp-2-crud/static/css/main.df99ce84.css",
+    "main.css": "/tp-2-crud/static/css/main.e0f0fc14.css",
     "main.js": "/tp-2-crud/static/js/main.48b2b860.js",
     "static/js/787.ee0dc8f0.chunk.js": "/tp-2-crud/static/js/787.ee0dc8f0.chunk.js",
     "static/media/remixicon.svg?t=1687271883607": "/tp-2-crud/static/media/remixicon.636515c9a8963df4380d.svg",
@@ -15,12 +15,12 @@
     "static/media/remixicon.woff2?t=1687271883607": "/tp-2-crud/static/media/remixicon.85992a032c7668836563.woff2",
     "static/media/Pattern-fill-png": "/tp-2-crud/static/media/Pattern-fill-e37c23a0f5211e59dd2a24560c4838a3.f37935c57756097dc4af.png",
     "index.html": "/tp-2-crud/index.html",
-    "main.df99ce84.css.map": "/tp-2-crud/static/css/main.df99ce84.css.map",
+    "main.e0f0fc14.css.map": "/tp-2-crud/static/css/main.e0f0fc14.css.map",
     "main.48b2b860.js.map": "/tp-2-crud/static/js/main.48b2b860.js.map",
     "787.ee0dc8f0.chunk.js.map": "/tp-2-crud/static/js/787.ee0dc8f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df99ce84.css",
+    "static/css/main.e0f0fc14.css",
     "static/js/main.48b2b860.js"
   ]
 }
